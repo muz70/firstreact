@@ -29,7 +29,7 @@ function Home(props) {
            <div class="container">
                <div class="row">
                    <div class="col md-4">
-                       <img class="img-responsive img-thumbnail" src= ".\pic.jpg"
+                       <img class="img-responsive img-thumbnail" src= ".\pics.jpg"
                     alt="myphoto" width="250px"/>
                    </div> <br></br> <br></br>
 
