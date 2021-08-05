@@ -8,7 +8,8 @@ function Home(props) {
    <div>
 <div class="jumbotron" style={{textAlign:"center", color:"blue"}}>
             <h1 class="heading">Mohamed Muzammil</h1>
-            <p class="subject">Web Developer</p> </div>
+            <p class="subject">Web Developer</p> 
+<br>(Sample Resume Portfolio)</div>
 
 
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
